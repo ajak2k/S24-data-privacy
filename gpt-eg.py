@@ -1,5 +1,6 @@
 from openai import OpenAI
 import csv  
+import sys
 
 # File path of your CSV file containing the questions
 csv_file_path = 'GDPR_questions.csv'
@@ -40,15 +41,20 @@ def ask_gpt():
 
 
 def get_response(question, policy_text):
-    prompt = f"Here is a privacy policy:\n\n{policy_text}\n\nBased on the above privacy policy, please answer the following question:\n\n{question}"
     
     response = client.chat.completions.create(
-    model="gpt-4o",
-    temperature=0.01,
+    model="gpt-3.5-turbo",
+    temperature=0.0001,
     messages=[
-      {"role": "system", "content": "You are a privacy law expert. Your goal is to read a privacy policy and then answer a question. The questions will be about compiance of the policy with GDPR. Please answer the questions only with 'compliant' or 'not compliant' or 'out of my scope to determine'"},
-      {"role": "user", "content": f"Here is the privacy policy of a company: \n{policy_text} \n\n and here is the Question: {question}"},
-      ]
+              {
+                "role": "system",
+                "content": "You are a privacy law expert specializing in GDPR compliance. You will be provided with a privacy policy and a question enclosed in XML tags. Based on the provided policy, determine the compliance with GDPR and respond with one of the following: 'compliant', 'not compliant'. Only respond with 'out of my scope to determine' if the policy does not provide enough information to make a determination. Be concise and ensure your response is based solely on the content of the policy."
+              },
+              {
+                "role": "user",
+                "content": f"Here is the privacy policy of a company: \n<privacy_policy>{policy_text}</privacy_policy> \n\nHere is the question: <question>{question}</question>"
+              }
+            ]
     )    
     return response.choices[0].message.content
 
@@ -75,6 +81,7 @@ def main():
       print(f'error: {e}')
   finally:
      print(f'program ended successfully')
+     sys.open('questions_with_answers.csv')
 
 if __name__ == '__main__':
    main()   
