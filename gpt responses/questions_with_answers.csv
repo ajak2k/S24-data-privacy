@@ -46,7 +46,7 @@ Question,Answer
 7.3.1: Contractual Limits: Do the policies clearly indicate whether or not the third-party successor of a data transfer is contractually required to provide the same privacy compliance required of the vendor?,out of my scope to determine
 8.1.1: Verify Identity: Do the policies clearly indicate whether or not the vendor or vendor-authorized third party verifies a user's identity with personal information?,out of my scope to determine
 8.3.1: Security Agreement: Do the policies clearly indicate whether or not a third party with access to a user's information is contractually required to provide the same level of security protections as the vendor?,out of my scope to determine
-8.4.1: Reasonable Security (BASIC): Do the policies clearly indicate whether or not reasonable security standards are used to protect the confidentiality of a user's personal information?,out of my scope to determine
+8.4.1: Reasonable Security (BASIC): Do the policies clearly indicate whether or not reasonable security standards are used to protect the confidentiality of a user's personal information?,Out of my scope to determine
 8.5.1: Transit Encryption (BASIC): Do the policies clearly indicate whether or not all data in transit is encrypted?,out of my scope to determine
 8.6.1: Storage Encryption (BASIC): Do the policies clearly indicate whether or not all data at rest is encrypted?,out of my scope to determine
 8.6.2: Data Control: Do the policies clearly indicate whether or not personal information is stored outside the control of the vendor?,out of my scope to determine
