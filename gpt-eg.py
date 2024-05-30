@@ -3,12 +3,12 @@ import csv
 from tokenizer import tokenize_text
 
 # File path of your CSV file containing the questions
-csv_file_path = 'GDPR_questions_V2.csv'
+csv_file_path = 'GDPR_questions.csv'
 # File path of your TXT file containing the privacy policy
 txt_file_path = 'Text.txt'
 
 # File path to write the CSV file containing questions and answers
-output_csv_file_path = 'questionsV2_with_answersV2.csv'
+output_csv_file_path = 'questionsV2_with_answersV3.csv'
 
 gpt_model = 'gpt-4o' # what model to use, 'gpt-3.5-turbo'(faster and cheaper but less number of input tokens) or 'gpt-4o'(more number of input tokens, slower and expensive)
 
@@ -25,7 +25,7 @@ def read_policy(txt_file_path):
     # Reading the content of the TXT file with UTF-8 encoding
     with open(txt_file_path, 'r', encoding='utf-8') as file:
         privacy_policy_text = file.read()
-        privacy_policy_text = tokenize_text(privacy_policy_text)
+        #privacy_policy_text = tokenize_text(privacy_policy_text)
     return privacy_policy_text
 
 def read_questions():
@@ -43,26 +43,19 @@ def ask_gpt(policy_text, model):
     question_answer_pairs.append((question, answer))
 
 
-def get_response(question, policy_text, model):
+def get_response(batch_question, policy_text, model):
     
     system_prompt = """
                     You are a privacy law expert specializing in GDPR compliance.
-                    You will be provided with a privacy policy that has been tokenized with stop words removed and a question enclosed in XML tags.
-                    Based on the provided policy, determine its compliance with GDPR and respond with one of the following: 
-                    'compliant', 'not compliant', or 'partially compliant'. 
-                    If the response is 'partially compliant', provide a brief explanation separated by a comma.
-                    Only respond with 'out of my scope to determine' if the policy does not provide enough information to make a determination.
-                    Be concise and ensure your response is based solely on the content of the policy.
+                    You will be given a privacy policy and a question enclosed in XML tags.
+                    Based on the policy, determine GDPR compliance and respond with 2 for 'compliant', 0 for 'not compliant' and 1 for 'partially compliant', or 3 for 'out of scope'.
+                    Be concise and base your response solely on the policy content.
                     """
 
-
-
     user_prompt = f"""
-                    Here is the privacy policy of a company: 
-                    <privacy_policy>{policy_text}</privacy_policy> 
-
-                    Here is the question: <question>{question}</question>
-                    """                
+                    <privacy_policy>{policy_text}</privacy_policy>
+                    <question>{batch_question}</question>
+                  """                
 
     response = client.chat.completions.create(
     model= model,

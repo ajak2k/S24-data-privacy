@@ -30,7 +30,6 @@ International data transfer mechanisms: We’re making changes to our internatio
 Minimum age requirement: We’re reducing the minimum age to use WhatsApp in the European Region from 16 to 13. This ensures a consistent minimum age requirement for WhatsApp globally.
 As always, your personal messages and calls are end-to-end encrypted. No one else, not even WhatsApp, can read or listen to them.
 
-Back to top
 
 WhatsApp Legal Info
 If you live in the European Region, WhatsApp Ireland Limited ("WhatsApp," "our," "we," or "us") provides our Services to you under the Terms of Service and this Privacy Policy.
@@ -45,7 +44,6 @@ This Privacy Policy applies to all of our Services unless specified otherwise. S
 
 Please also read WhatsApp's Terms of Service ("Terms"), which describe the terms under which you use and we provide our Services.
 
-Back to top
 
 Information We Collect
 
@@ -110,7 +108,6 @@ When you choose to communicate with users of third party interoperable messaging
 
 
 Please note that when you use third-party services or Meta Company Products, the terms and privacy policies of the company that offers those services will govern your use of those services and products.
-Back to top
 
 Information Shared by You and by WhatsApp with Third Parties
 
@@ -129,8 +126,6 @@ telecommunications technology providers to send you SMS messages, or call you, t
 a content safety technology service provider that helps us to maintain the safety and integrity of the Services by detecting and helping us to prioritise harmful material for our reviewers to assess. To provide these services, this provider receives certain images from User Reports (e.g. images), Your Account Information (e.g. profile picture) and Your Community and Group Information (e.g. community or group profile picture). The provider we currently use is located in the United States.
 a location data provider to enable you to share your location or a nearby place with other WhatsApp users. To be able to provide these services, this provider receives Precise Location Information (your current location and other locations you choose on the map). The provider we currently use is located in the United States.
 Please also see the How We Work With Other Meta Companies and Working with Authorities, Advisors and Industry Partners sections for further information we share.
-
-Back to top
 
 How We Work With Other Meta Companies
 WhatsApp is one of the Meta Companies. The Meta Companies provide technology products and services for both individuals and businesses.
@@ -177,7 +172,6 @@ escalating any cases requiring legal review to us.
 For receiving the services listed above and depending on the service that is provided, we share the Information We Collect.
 If you would like further details about the Meta Companies that currently act as our service providers, please click here.
 
-Back to top
 
 How and Why We Process Your Information and Our Legal Basis For Processing
 
@@ -190,7 +184,7 @@ You also have particular rights available to you depending on which legal basis 
 
 Information that we process to convey your messages or calls (which includes information like your phone number, the time and date you make a call or send a message, or the duration of your calls) is subject to and handled in accordance with the specific rules and requirements under the EU Directive 2002/58/EC, where applicable.
 
-Back to top
+
 
 Processing necessary to perform our contract with you
 For all users who have the legal capacity to enter into an enforceable contract (for example, by being the age of majority or above in their country of residence), we process information as necessary to conclude and perform our contract with you, our Terms.
@@ -481,7 +475,7 @@ General Location Information
 Cookies
 When we process information you provide to us as necessary to perform our contractual relationship with you, under applicable data protection laws you have the right to port it. To exercise your rights, visit the How To Exercise Your Rights section of this Privacy Policy.
 
-Back to top
+
 
 The other legal bases we rely on when processing your information and the circumstances in which we rely on them are set out below:
 
@@ -499,7 +493,7 @@ accessing your camera and / or photo gallery if you choose to share photos or me
 User Content
 When we process your information based on your consent, you have the right to withdraw your consent at any time without affecting the lawfulness of processing based on such consent before the consent is withdrawn. To exercise your rights, visit your device-based settings, your in-app settings like your live location control, and the How To Exercise Your Rights section of this Privacy Policy.
 
-Back to top
+
 
 Compliance With A Legal Obligation
 We process information to comply with a legal obligation including, for example, to access, preserve or disclose certain information if there is a valid legal request. Examples of Irish and EU laws that could give rise to a legal obligation requiring us to process information are set out below. New laws may be enacted or other obligations may become binding on our processing and we will update the list of laws from time to time.
@@ -539,7 +533,7 @@ Information Others Provide About You
 Businesses on WhatsApp
 Third-Party Services
 
-Back to top
+
 
 
 Protection Of Your Vital Interests Or Those Of Another Person
@@ -571,7 +565,7 @@ User Reports
 Businesses on WhatsApp
 Third-Party Services
 
-Back to top
+
 
 Legitimate Interests
 We rely on our legitimate interests or the legitimate interests of a third-party, such as our users, where they are not outweighed by your interests or fundamental rights and freedoms ("legitimate interests"):
@@ -961,7 +955,7 @@ You have the right to object to, and seek restriction of, this processing. To ex
 
 We still do not allow third-party banner ads on our Services. We have no intention to introduce them, but if we ever do, we will update this Privacy Policy.
 
-Back to top
+
 
 How To Exercise Your Rights
 
@@ -978,7 +972,7 @@ When we process information you provide to us based on your consent, you have th
 
 You have the right to lodge a complaint with WhatsApp's lead supervisory authority under the GDPR, the Irish Data Protection Commission, or any other competent data protection supervisory authority.
 
-Back to top
+
 
 Retention of Your Information
 We store information for as long as necessary for the purposes identified in this Privacy Policy, including to provide our Services, or for other legitimate purposes, such as complying with legal obligations, enforcing and preventing violations of our Terms, to fight spam, or protecting or defending our rights, property and users. The storage periods are determined on a case-by-case basis that depends on the following factors:
@@ -1005,7 +999,7 @@ The actual information that we keep and how long we keep it for depends on the n
 
 Operational Retention Needs. We need to store information in certain cases for operational needs. For example, if a message cannot be delivered immediately, we keep it in encrypted form on our servers for up to 30 days as we try to deliver it. We also store information where necessary for troubleshooting and debugging issues with the Services. We keep the information that we store for this purpose for up to 90 days, provided longer storage is not necessary for investigating and resolving a specific issue, or for legal reasons.
 Messaging. We retain the information that we process to convey your messages or calls (which includes information like your phone number, the time and date you make a call or send a message, or the duration of your calls) in accordance with the specific rules and requirements under the EU Directive 2002/58/EC, where applicable, as long as it is needed for transmitting the communication, operating our Services, ensuring the safety and security of our Services, or to comply with legal obligations under applicable law. When we do not need the information for any of these purposes anymore, we delete or anonymise it.
-Back to top
+
 
 Deleting Your Information
 
@@ -1022,7 +1016,7 @@ Your account initially was linked to these records by a randomly generated ident
 Copies of your information may also be retained for legal reasons after you delete your account in the circumstances described. The information that may be retained and length of time we need to retain it will depend on the specific legal reason we need to retain it for.
 For more information on how long we store information, see Retention of Your Information.
 
-Back to top
+
 
 Managing Your Information
 If you would like to manage, change, limit, or delete your information, you can do that through the following tools:
@@ -1034,7 +1028,7 @@ Be mindful that if you only delete WhatsApp from your device without selecting t
 
 Please remember that when your account is deleted, it does not affect your information related to the communities or groups you created (such as community or group names), or the information other users have relating to you, such as their copy of the messages you sent them.
 
-Back to top
+
 
 Working With Authorities, Advisors And Industry Partners
 We access and share your information described in the Information We Collect section, including sharing with regulators, law enforcement, other government agencies, industry partners/peers such as other online platforms and technology companies, our advisors such as external lawyers who act for us, and others in accordance with the How and Why We Process Your Information and Our Legal Basis for Processing section if we have a good-faith belief that it is necessary to:
@@ -1046,7 +1040,7 @@ For more information on how we preserve your information for these purposes, ple
 
 The processing we carry out will depend on the circumstances. Further information on the different categories of information affected and the legal bases we rely on is set out in the How and Why We Process Your Information and Our Legal Basis for Processing section under the Processing necessary to perform our contract with you, Compliance with a Legal Obligation, Protection of Your Vital Interests or Those of Another Person and Legitimate Interests headings.
 
-Back to top
+
 
 Transferring information outside the EEA as part of Our Global Operations
 
@@ -1066,12 +1060,12 @@ Standard Contractual Clauses: We utilise standard contractual clauses approved b
 While transfers to countries that don’t have an adequacy decision typically take place on the basis of the standard contractual clauses, in certain circumstances, transfers can also take place on the basis of exemptions provided for under data protection law. For example, sharing with law enforcement, in emergency situations where we learn that a person’s life is at risk.
 
 If you have any questions about the standard contractual clauses you can contact us.
-Back to top
+
 
 Updates to Our Privacy Policy
 We may amend or update our Privacy Policy. We will provide you notice of amendments to this Privacy Policy, as appropriate, and update the “Last Updated” date at the top of this Privacy Policy. Please review our Privacy Policy from time to time.
 
-Back to top
+
 
 Contact Us
 The Data Protection Officer for WhatsApp can be contacted here.
@@ -1090,4 +1084,3 @@ D04 X2K5
 
 Ireland
 
-Back to top
