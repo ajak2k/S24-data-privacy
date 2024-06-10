@@ -12,7 +12,7 @@ def calculate_readability_score(contents):
     return results
 
 # Define the path to the policy names CSV file
-policy_names_file = 'policy_names.csv'
+policy_names_file = 'Readability\policy_names.csv'
 
 # Read the file names from the CSV file
 file_names = []
@@ -22,7 +22,7 @@ with open(policy_names_file, 'r', encoding='utf-8') as file:
         file_names.append(row[0])
 
 # Open the output CSV file
-output_file = 'readability_results.csv'
+output_file = 'Readability/readability_results.csv'
 with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
     writer = csv.writer(csvfile)
 

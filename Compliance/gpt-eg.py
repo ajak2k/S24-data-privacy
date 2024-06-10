@@ -48,7 +48,7 @@ def get_response(batch_question, policy_text, model):
     system_prompt = """
                     You are a privacy law expert specializing in GDPR compliance.
                     You will be given a privacy policy and a question enclosed in XML tags.
-                    Based on the policy, determine GDPR compliance and respond with 2 for 'compliant', 0 for 'not compliant' and 1 for 'partially compliant', or 3 for 'out of scope'.
+                    Based on the policy, determine GDPR compliance and respond with 1 for 'compliant', 0 for 'not compliant'.
                     Be concise and base your response solely on the policy content.
                     """
 
