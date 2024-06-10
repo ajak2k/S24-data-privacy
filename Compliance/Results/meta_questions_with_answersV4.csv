@@ -1,0 +1,62 @@
+Question,Answer
+"﻿""Vendor Contact: Do the policies clearly indicate whether or not a user can contact the vendor about any privacy policy questions",0
+"Quick Reference: Do the policies clearly indicate the vendor's privacy principles by short explanations, layered notices, a table of contents, or outlined privacy principles of the vendor?",0
+Children Intended (BASIC): Do the policies clearly indicate whether or not the product is intended to be used by children under the age of 13?,0
+Teens Intended: Do the policies clearly indicate whether or not the product is intended to be used by teens 13 to 18 years of age?,0
+Adults Intended: Do the policies clearly indicate whether or not the product is intended to be used by adults over the age of 18?,0
+Collect PII (BASIC): Do the policies clearly indicate whether or not the vendor collects personally identifiable information (PII)?,1
+PII Categories: Do the policies clearly indicate what categories of personally identifiable information are collected by the product?,1
+Geolocation Data: Do the policies clearly indicate whether or not precise geolocation data are collected?,0
+Health Data: Do the policies clearly indicate whether or not any health or biometric data are collected?,0
+Behavioral Data: Do the policies clearly indicate whether or not any behavioral data are collected?,1
+Sensitive Data: Do the policies clearly indicate whether or not sensitive personal information is collected?,1
+Usage Data: Do the policies clearly indicate whether or not the product automatically collects any information?,1
+Collection Limitation (BASIC): Do the policies clearly indicate whether or not the vendor limits the collection or use of information to only data that are specifically required for the product?,0
+Data Shared (BASIC): Do the policies clearly indicate if collected information (this includes data collected via automated tracking or usage analytics) is shared with third parties?,1
+Sharing Purpose: Do the policies clearly indicate the vendor's intention or purpose for sharing a user's personal information with third parties?,1
+Third-Party Analytics: Do the policies clearly indicate whether or not collected information is shared with third parties for analytics and tracking purposes?,1
+Exclude Sharing: Do the policies specify any categories of information that will not be shared with third parties?,0
+Data Acquired: Do the policies clearly indicate whether or not the vendor may acquire a user's information from a third party?,1
+Third-Party Categories: Do the policies clearly indicate the categories of related third parties,1
+Data Deidentified: Do the policies clearly indicate whether or not a user's information that is shared or sold to a third-party is only done so in an anonymous or deidentified format?,0
+Deidentified Process: Do the policies clearly indicate whether or not the deidentification process is done with a reasonable level of justified confidence,0
+Third-Party Limits (BASIC): Do the policies clearly indicate whether or not the vendor imposes contractual limits on how third parties can use personal information that the vendor shares or sells to them?,0
+Purpose Limitation: Do the policies clearly indicate whether or not the vendor limits the use of data collected by the product to the educational purpose for which it was collected?,0
+Data Purpose: Do the policies clearly indicate the context or purpose for which data are collected?,1
+Context Notice: Do the policies clearly indicate whether or not notice is provided to a user if the vendor changes the context in which data are collected?,0
+Context Consent: Do the policies clearly indicate whether or not the vendor will obtain consent if the practices in which data are collected change or are inconsistent with contractual requirements?,0
+Collection Consent: Do the policies clearly indicate whether or not the vendor requests opt-in consent from a user at the time information is collected?,0
+Complaint Notice: Do the policies clearly indicate whether or not the vendor has a grievance or remedy mechanism for users to file a complaint after the vendor restricts or removes a user's content or account?,0
+Opt-Out Consent: Do the policies clearly indicate whether or not a user can opt out from the disclosure or sale of their data to a third party?,0
+Disclosure Request: Do the policies clearly indicate whether or not a user can request the vendor to provide all the personal information the vendor has shared with third parties?,0
+Disclosure Notice: Do the policies clearly indicate whether or not the vendor will provide the affected user,0
+Access Data (BASIC): Do the policies clearly indicate whether or not the vendor provides authorized individuals a method to access a user's personal information?,1
+Restrict Access: Do the policies clearly indicate whether or not the vendor provides mechanisms (permissions,0
+Maintain Accuracy: Do the policies clearly indicate whether or not the vendor takes steps to maintain the accuracy of data they collect and store?,0
+Data Modification (BASIC): Do the policies clearly indicate whether or not the vendor provides authorized individuals with the ability to modify a user's inaccurate data?,0
+Modification Process: Do the policies clearly indicate whether or not the vendor provides a process for the schools,0
+Modification Notice: Do the policies clearly indicate how long the vendor has to modify a user's inaccurate data after given notice?,0
+Retention Policy: Do the policies clearly indicate the vendor's data retention policy,1
+Retention Limits: Do the policies clearly indicate whether or not the vendor will limit the retention of a user's data unless a valid request to inspect data is made?,0
+Deletion Purpose: Do the policies clearly indicate whether or not the vendor will delete a user's personal information when the data are no longer necessary to fulfill its intended purpose?,1
+User Deletion: Do the policies clearly indicate whether or not a user can delete all of their personal and non-personal information from the vendor?,0
+Deletion Process (BASIC): Do the policies clearly indicate whether or not the vendor provides a process for the school,0
+Deletion Notice: Do the policies clearly indicate how long the vendor may take to delete a user's data after given notice?,1
+User Export: Do the policies clearly indicate whether or not a user can export or download their data,1
+Contractual Limits: Do the policies clearly indicate whether or not the third-party successor of a data transfer is contractually required to provide the same privacy compliance required of the vendor?,0
+Verify Identity: Do the policies clearly indicate whether or not the vendor or vendor-authorized third party verifies a user's identity with personal information?,0
+Security Agreement: Do the policies clearly indicate whether or not a third party with access to a user's information is contractually required to provide the same level of security protections as the vendor?,0
+Reasonable Security (BASIC): Do the policies clearly indicate whether or not reasonable security standards are used to protect the confidentiality of a user's personal information?,0
+Transit Encryption (BASIC): Do the policies clearly indicate whether or not all data in transit is encrypted?,0
+Storage Encryption (BASIC): Do the policies clearly indicate whether or not all data at rest is encrypted?,0
+Data Control: Do the policies clearly indicate whether or not personal information is stored outside the control of the vendor?,0
+Breach Notice (BASIC): Do the policies clearly indicate whether or not the vendor provides notice in the event of a data breach to affected individuals?,0
+Security Audit: Do the policies clearly indicate whether or not the data privacy or security practices of the vendor are internally or externally audited to ensure compliance?,0
+Data Profile (BASIC): Do the policies clearly indicate whether or not the vendor allows third parties to use a student's data to create an automated profile,0
+Unsubscribe Marketing: Do the policies clearly indicate whether or not a user can opt out or unsubscribe from a vendor or third party marketing communication?,0
+School Contract: Do the policies clearly indicate whether or not the vendor provides a contract to a Local Educational Agency (LEA) or otherwise provides notice to users of additional rights?,0
+Parental Consent (BASIC): Do the policies clearly indicate whether or not the vendor or third party obtains verifiable parental consent before they collect or disclose personal information?,0
+Withdraw Consent: Do the policies clearly indicate whether or not the vendor responds to a request from a parent or guardian to prevent further collection of their child's information?,0
+Privacy Badge: Do the policies clearly indicate whether or not the vendor has signed any privacy pledges or received any other privacy certifications?,0
+GDPR Jurisdiction: Do the policies clearly indicate whether or not a user's data are subject to International data transfer or jurisdiction laws,1
+GDPR Role: Do the policies clearly indicate whether or not the vendor is categorized as a Data Controller or a Data Processor,0

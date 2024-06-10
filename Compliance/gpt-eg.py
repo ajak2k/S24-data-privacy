@@ -3,12 +3,12 @@ import csv
 from tokenizer import tokenize_text
 
 # File path of your CSV file containing the questions
-csv_file_path = 'GDPR_questions.csv'
+csv_file_path = 'Compliance\GDPR_questions.csv'
 # File path of your TXT file containing the privacy policy
-txt_file_path = 'Text.txt'
+txt_file_path = 'Readability\policies\Meta\Meta_Dec_27_2023_EU.txt'
 
 # File path to write the CSV file containing questions and answers
-output_csv_file_path = 'questionsV2_with_answersV3.csv'
+output_csv_file_path = 'Compliance/Results/meta_questions_with_answersV4.csv'
 
 gpt_model = 'gpt-4o' # what model to use, 'gpt-3.5-turbo'(faster and cheaper but less number of input tokens) or 'gpt-4o'(more number of input tokens, slower and expensive)
 
